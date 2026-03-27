@@ -1,0 +1,18 @@
+{
+  "name": "dotclaude",
+  "owner": {
+    "name": "inovue"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by inovue",
+    "homepage": "https://github.com/inovue/dotclaude"
+  },
+  "plugins": [
+    {
+      "name": "write-article",
+      "version": "1.0.0",
+      "source": "./write-article",
+      "description": "Write compelling web articles from source material using cognitive science principles, with Mermaid diagrams and configurable presets"
+    }
+  ]
+}
