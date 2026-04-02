@@ -27,11 +27,38 @@ Claude Code plugins by inovue
 
 ## インストール
 
-Claude Code の設定でこのリポジトリをプラグインとして追加してください。
+### 1. マーケットプレイスを追加
+
+Claude Code で以下のコマンドを実行し、マーケットプレイスを登録します。
 
 ```
-claude plugin add inovue/dotclaude
+/plugin marketplace add inovue/dotclaude
 ```
+
+### 2. プラグインをインストール
+
+マーケットプレイスからプラグインを選んでインストールします。
+
+```
+/plugin install write-article@inovue-dotclaude
+```
+
+または `/plugin` を実行して **Discover** タブからインタラクティブにインストールすることもできます。
+
+### 3. プラグインを有効化
+
+```
+/reload-plugins
+```
+
+### その他のコマンド
+
+| コマンド | 説明 |
+|---|---|
+| `/plugin marketplace list` | 登録済みマーケットプレイス一覧 |
+| `/plugin marketplace update inovue-dotclaude` | マーケットプレイスを更新 |
+| `/plugin` | プラグインマネージャを開く |
+| `/plugin uninstall write-article@inovue-dotclaude` | プラグインをアンインストール |
 
 ## ライセンス
 
