@@ -9,10 +9,10 @@
   },
   "plugins": [
     {
-      "name": "write-article",
-      "version": "1.0.0",
-      "source": "./write-article",
-      "description": "Write compelling web articles from source material using cognitive science principles, with Mermaid diagrams and configurable presets"
+      "name": "techlog",
+      "version": "0.0.1",
+      "source": "./techlog",
+      "description": "AIっぽさを排除し人間の声で書くZenn/Qiita向け技術記事ライター。6つの記事型・Mermaid図解・ユーモアトーンを駆使し、読者が最後まで読む記事を生成する。"
     }
   ]
 }
