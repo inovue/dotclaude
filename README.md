@@ -6,7 +6,7 @@ Claude Code plugins by inovue
 
 ### write-article
 
-ソースマテリアル（URL、ファイル、テキスト）から、Zenn・Qiita向けの技術記事を生成する Claude Code プラグインです。
+ソースマテリアル（URL、ファイル、テキスト）から、技術記事を生成する Claude Code プラグイン
 
 **主な特徴:**
 
