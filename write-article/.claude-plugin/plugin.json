@@ -1,7 +1,7 @@
 {
-  "name": "write-article",
-  "version": "2.1.0",
-  "description": "Zenn/Qiita向け技術記事ライター。トーン指定・多彩な記事タイプ・Mermaid図解を活用し、ソース素材から魅力的な技術記事を生成する。",
+  "name": "techlog",
+  "version": "0.0.1",
+  "description": "AIっぽさを排除し人間の声で書くZenn/Qiita向け技術記事ライター。6つの記事型・Mermaid図解・ユーモアトーンを駆使し、読者が最後まで読む記事を生成する。",
   "author": {
     "name": "inovue"
   },
