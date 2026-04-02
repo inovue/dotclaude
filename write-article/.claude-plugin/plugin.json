@@ -1,7 +1,7 @@
 {
   "name": "write-article",
-  "version": "2.0.0",
-  "description": "Zenn/Qiita向け技術記事ライター。ソース素材から、図解・コード例を効果的に配置した魅力的な技術記事を生成する。",
+  "version": "2.1.0",
+  "description": "Zenn/Qiita向け技術記事ライター。トーン指定・多彩な記事タイプ・Mermaid図解を活用し、ソース素材から魅力的な技術記事を生成する。",
   "author": {
     "name": "inovue"
   },
